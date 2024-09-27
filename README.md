@@ -1,9 +1,9 @@
 # Mata Kuliah Praktikum Struktur Data Kelas SE-07-01
 
 ## 01_Pengenalan_CPP_Bagian_1
-- [ ] TP
-- [ ] GUIDED
-- [ ] UNGUIDED
+- [x] TP
+- [x] GUIDED
+- [x] UNGUIDED
 
 ## 02_Pengenalan_CPP_Bagian_2
 - [ ] TP
